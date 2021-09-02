@@ -16,6 +16,6 @@
     <string name="switch_off_text">Blocked</string>
 
     <!-- Footer  -->
-    <string name="footer_text">No clients are currently available. Connected and blocked clients will be listed here when avaialable.</string>
+    <string name="footer_text">No clients are currently available. Connected and blocked clients will be listed here when available.</string>
 
 </resources>
